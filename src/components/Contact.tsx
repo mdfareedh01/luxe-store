@@ -151,7 +151,7 @@ const Contact = () => {
             </div>
 
             {/* Social Links */}
-            <div className="bg-white rounded-3xl shadow-2xl p-8 lg:p-12">
+            {/* <div className="bg-white rounded-3xl shadow-2xl p-8 lg:p-12">
               <h3 className="text-2xl font-bold text-gray-900 mb-8">Follow Us</h3>
               
               <div className="grid grid-cols-2 gap-4">
@@ -166,7 +166,7 @@ const Contact = () => {
                   </a>
                 ))}
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

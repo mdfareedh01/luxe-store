@@ -3,7 +3,8 @@ import Navbar from '../components/Navbar';
 import HotDeals from '@/components/HotDeals';
 import Products from '@/components/Products';
 import About from '@/components/About';
-import { Contact } from 'lucide-react';
+import Contact from '@/components/Contact';
+
 
 const Index = () => {
   return (
